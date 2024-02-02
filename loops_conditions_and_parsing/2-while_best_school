@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-Print "Best Schhol" 10 times using while loop
+#Print "Best Schhol" 10 times using while loop
 counter=0
 while [ $counter -lt 10 ]
 do
