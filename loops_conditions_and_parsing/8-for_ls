@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-#Listing files
+#Displays content of current directory in a list format
+
 for i in *
 do
     echo "$i" | cut -f 2- -d '-'
