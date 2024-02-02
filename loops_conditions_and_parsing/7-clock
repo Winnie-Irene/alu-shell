@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #Creates a script which uses a nested loop
+
 hour=0
 while [ $hour -le 12 ]
 do
