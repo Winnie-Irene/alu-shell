@@ -3,4 +3,4 @@
 # Requirement :
 #	-You cannot use ps
 
-pgrep -l
+pgrep -l bash
